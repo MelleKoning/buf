@@ -3,3 +3,4 @@
   description: Validates proto files
   entry: buf  
   language: golang
+  types: [proto]
