@@ -1,5 +1,5 @@
 - id: buf
   name: buf linter
   description: Validates proto files
-  entry: buf lint ./api  
+  entry: buf lint  
   language: golang
